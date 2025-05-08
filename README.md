@@ -3,8 +3,9 @@
 I like functional programming, but that does not mean that I know how to do it.
 
 [![mi18191's GitHub stats](https://github-readme-stats.vercel.app/api?username=mi18191)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mi18191)](https://github.com/anuraghazra/github-readme-stats&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mi18191)](https://git.io/streak-stats&theme=darcula&hide_border=true&background=FFFFFF00) 
+
 
 <!--
 **mi18191/mi18191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
